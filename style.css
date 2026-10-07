@@ -5,10 +5,8 @@
   font-style: normal;
 }
 
-body{
-    background-color: blueviolet;
+header
+{
+    background-color:rgb(218, 175, 218);
     font-family: "Libre Caslon Condensed";
-    
-
-
 }
