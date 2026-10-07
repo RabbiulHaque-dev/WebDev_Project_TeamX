@@ -1,0 +1,13 @@
+.libre-caslon-condensed- {
+  font-family: "Libre Caslon Condensed", serif;
+  font-optical-sizing: auto;
+  font-weight: 1000;
+  font-style: normal;
+}
+
+body{
+    background-color: blueviolet;
+    font-family: "Libre Caslon Condensed";
+
+
+}
