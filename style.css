@@ -10,3 +10,15 @@ header
     background-color:rgb(218, 175, 218);
     font-family: "Libre Caslon Condensed";
 }
+
+main
+{
+    background-color: rgb(247, 116, 208);
+    font-family: fantasy;
+}
+
+footer
+{
+    background-color: rgb(130, 255, 6);
+    font-family: monospace;
+}
