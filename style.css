@@ -14,11 +14,11 @@ header
 main
 {
     background-color: rgb(247, 116, 208);
-    font-family: fantasy;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 footer
 {
     background-color: rgb(130, 255, 6);
-    font-family: monospace;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
