@@ -7,25 +7,25 @@
 
 header
 {
-    background-color: aliceblue(238, 210, 178);
+    background-color: rgb(240, 248, 255);
     font-family: "Libre Caslon Condensed";
 }
 
 main
 {
-   background-color: aliceblue(238, 210, 178);
+   background-color: rgb(240, 248, 255);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 footer
 {
-    background-color:aliceblue;
+    background-color:rgb(240, 248, 255);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 summary
 {
-    background-color: aliceblue;
+    background-color: rgb(240, 248, 255);
     font-family: 'Times New Roman', Times, serif;
 }
 
@@ -46,7 +46,7 @@ button
     position: absolute;
     padding: 0%;
     margin: auto;
-    border: solid 0.001ch aliceblue;
+    border: solid 0.001ch rgb(240, 248, 255);
     background-color: antiquewhite;
     bottom: 0;
 }
@@ -66,7 +66,8 @@ button
 }
 html
 {
-    background-color: rgb(235, 232, 229);
+    background-color:rgb(240, 248, 255);
+    background-color: rgb(240, 248, 255);
 }
 body 
 {
